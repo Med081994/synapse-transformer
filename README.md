@@ -1,1 +1,1 @@
-# synapse_transfomer
+# Synapse AI Content Transformer
